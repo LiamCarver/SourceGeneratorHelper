@@ -1,0 +1,15 @@
+C:\Users\liamc\source\repos\SourceGeneratorHelper\bin\Debug\netstandard2.0\SourceGeneratorHelper.deps.json
+C:\Users\liamc\source\repos\SourceGeneratorHelper\bin\Debug\netstandard2.0\SourceGeneratorHelper.dll
+C:\Users\liamc\source\repos\SourceGeneratorHelper\bin\Debug\netstandard2.0\SourceGeneratorHelper.pdb
+C:\Users\liamc\source\repos\SourceGeneratorHelper\bin\Debug\netstandard2.0\CSharpClassHelper.dll
+C:\Users\liamc\source\repos\SourceGeneratorHelper\bin\Debug\netstandard2.0\SyntaxTreeExtensions.dll
+C:\Users\liamc\source\repos\SourceGeneratorHelper\bin\Debug\netstandard2.0\CSharpClassHelper.pdb
+C:\Users\liamc\source\repos\SourceGeneratorHelper\bin\Debug\netstandard2.0\SyntaxTreeExtensions.pdb
+C:\Users\liamc\source\repos\SourceGeneratorHelper\obj\Debug\netstandard2.0\SourceGeneratorHelper.csproj.AssemblyReference.cache
+C:\Users\liamc\source\repos\SourceGeneratorHelper\obj\Debug\netstandard2.0\SourceGeneratorHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamc\source\repos\SourceGeneratorHelper\obj\Debug\netstandard2.0\SourceGeneratorHelper.AssemblyInfoInputs.cache
+C:\Users\liamc\source\repos\SourceGeneratorHelper\obj\Debug\netstandard2.0\SourceGeneratorHelper.AssemblyInfo.cs
+C:\Users\liamc\source\repos\SourceGeneratorHelper\obj\Debug\netstandard2.0\SourceGeneratorHelper.csproj.CoreCompileInputs.cache
+C:\Users\liamc\source\repos\SourceGeneratorHelper\obj\Debug\netstandard2.0\SourceGeneratorHelper.csproj.CopyComplete
+C:\Users\liamc\source\repos\SourceGeneratorHelper\obj\Debug\netstandard2.0\SourceGeneratorHelper.dll
+C:\Users\liamc\source\repos\SourceGeneratorHelper\obj\Debug\netstandard2.0\SourceGeneratorHelper.pdb
