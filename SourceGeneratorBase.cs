@@ -24,7 +24,7 @@ namespace SourceGeneratorHelper
                 var primaryNamespace = generatedDetail.Key;
                 var generatedClasses = generatedDetail.Value;
 
-                var classNamespaces = generatedClasses.Select(x => GetNamespaceList(x.Namespace, primaryNamespace)).Where(x => x.Length > 1).ToList();
+                var classNamespaces = generatedClasses.Select(x => GetNamespaceList(x.Namespace, primaryNamespace)).ToList();
 
                 CreateNamespaceFolders(classNamespaces, primaryNamespace);
 
